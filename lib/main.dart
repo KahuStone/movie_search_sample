@@ -86,7 +86,7 @@ class _MovieAppState extends State<MovieApp> {
                 Padding(
                   padding: const EdgeInsets.only(top: 10),
                   child: Text(
-                    'Software Movies',
+                    'Find Movies',
                     style: GoogleFonts.lexend(
                       fontSize: 25,
                       fontWeight: FontWeight.w400,
